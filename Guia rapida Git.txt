@@ -1,0 +1,27 @@
+Revisar version Git instalada:
+	- git --version
+
+Antes de hacer nada con Git es necesario configurar el usuario y el mail.
+	- git config --global user.name “NombreUsuarioGitHub”
+	- git config --global user.email “email@...”
+
+Inicializacion de directorio Git:
+	- git init
+
+Añadir los cambios a la carpeta local:
+	- git add .
+
+Guardar los cambios en la carpeta local:
+	- git commit -m "Mensaje para reconocer los cambios.
+
+Subir los cambios a internet:
+	- git push -u origin master
+
+Clonar un directorio de internet:
+	- git clone "url"
+
+Actualizar cambios locales con respecto a la version de internet:
+	- git pull // Git pull origin "nombre rama"
+
+Comprobar el estado de los archivos:
+	- git status
