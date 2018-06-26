@@ -7,8 +7,8 @@
       print(2 + 2)
 
     -- Ejemplo 2
-    x = 10
-    print(x)
+      x = 10
+      print(x)
 
       -- Los operadores matematicos con los que podemos trabajar son:
 
@@ -95,5 +95,5 @@
       -- Nos dice que tipo de dato tiene un objeto en concreto
 
       -- Ejemplo 1
-      w = 'asd'
-      print(w, type(w))
+        w = 'asd'
+        print(w, type(w))

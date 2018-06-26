@@ -4,9 +4,9 @@
   -- 1. Asignacion de valores individual
 
     -- Ejemplo 1
-    x = 1
-    y = 'Hola padre'
-    print(x, y)
+      x = 1
+      y = 'Hola padre'
+      print(x, y)
 
 
   -- 2. Asignacion multiple
